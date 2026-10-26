@@ -1,7 +1,7 @@
 # Lab 15 — Problem-Solving Answers
 
 **Student:** Khizar Mohammad Hashmi , 26I-8009
-**Script:** `lab15_starter.py` (Step 4 generates every number quoted below; `random_state=42` throughout)
+**Script:** `student_starter_script.py` (Step 4 generates every number quoted below; `random_state=42` throughout)
 
 **Corpus:** 3,703 posts after the >50-character filter. Baseline TF-IDF matrix: 3,703 × 4,000, **99.04% sparse**.
 
